@@ -1,3 +1,6 @@
+# deploy azure
+https://appnodeapi.azurewebsites.net/api/
+
 # instalar dependencias
 npm i
 
