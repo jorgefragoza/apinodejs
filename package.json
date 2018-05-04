@@ -1,0 +1,20 @@
+{
+  "name": "type-script-test",
+  "version": "1.0.0",
+  "description": "proyecto programado en typescript traspilado a javascript",
+  "main": "main.ts",
+  "scripts": {
+    "clean": "rm -rf ./build",
+    "build": "npm run clean && tsc",
+    "start": "node ./build/main.js"
+  },
+  "author": "jorge fragoza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.11.1",
+    "typescript": "^2.8.3"
+  }
+}
