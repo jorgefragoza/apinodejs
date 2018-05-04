@@ -10,9 +10,9 @@ npm start
 
 
 # Creación del proyecto
-> 29 Abril 2018
-> Jorge Fragoza
-> jorge_boel@hotmail.com
+29 Abril 2018
+Jorge Fragoza
+jorge_boel@hotmail.com
 
 # Instalación de typescript para dar soporte a TypeScript
 > 29 Abril 2018
