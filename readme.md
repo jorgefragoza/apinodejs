@@ -1,10 +1,10 @@
-#instalar dependencias
+# instalar dependencias
 npm i
 
-#traspilar, crea carpeta build
+# traspilar, crea carpeta build
 npm run build
 
-#iniciar app
+# iniciar app
 npm start
 
 
