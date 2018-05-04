@@ -10,7 +10,7 @@ npm start
 
 
 # Creación del proyecto
-29 Abril 2018
+29 Abril 2018\n
 Jorge Fragoza
 jorge_boel@hotmail.com
 
