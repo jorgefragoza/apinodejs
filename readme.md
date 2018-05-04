@@ -1,3 +1,14 @@
+#instalar dependencias
+npm i
+
+#traspilar, crea carpeta build
+npm run build
+
+#iniciar app
+npm start
+
+
+
 # Creación del proyecto
 > 29 Abril 2018
 > Jorge Fragoza
